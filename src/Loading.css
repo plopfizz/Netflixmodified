@@ -1,0 +1,11 @@
+.loading {
+  position: fixed;
+  z-index: 99;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+background: linear-gradient(to right, #d62e2e, #641164);
+  display: grid;
+  place-items: center;
+}
